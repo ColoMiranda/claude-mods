@@ -1,0 +1,9 @@
+{
+  "name": "open-last",
+  "version": "0.4.1",
+  "description": "A band above the prompt with the last file Claude wrote and any local dev server it started: open them in cmux, or stop the servers.",
+  "types": "./types/index.d.ts",
+  "author": {
+    "name": "Marcos Miranda"
+  }
+}

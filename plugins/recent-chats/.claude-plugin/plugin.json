@@ -1,0 +1,9 @@
+{
+  "name": "recent-chats",
+  "version": "0.3.0",
+  "description": "When Claude opens fresh, a band above the prompt offers this folder's last 5 chats, each with a one-line summary: press 1 to 5 to resume one, or type to start a new chat.",
+  "types": "./types/index.d.ts",
+  "author": {
+    "name": "Marcos Miranda"
+  }
+}

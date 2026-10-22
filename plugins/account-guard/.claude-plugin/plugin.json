@@ -1,0 +1,9 @@
+{
+  "name": "account-guard",
+  "version": "0.1.3",
+  "description": "A line above the prompt with the GitHub account a push would use, and a red warning when that account cannot push to the repo.",
+  "types": "./types/index.d.ts",
+  "author": {
+    "name": "Marcos Miranda"
+  }
+}

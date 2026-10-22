@@ -1,0 +1,9 @@
+{
+  "name": "copy-draft",
+  "version": "0.4.0",
+  "description": "Under Claude's answers (terminal): a copy button for each code block, and a reply button for each table that fills the prompt box with one line per row. Also /copy-block [n] and /reply-table [n].",
+  "types": "./types/index.d.ts",
+  "author": {
+    "name": "Marcos Miranda"
+  }
+}

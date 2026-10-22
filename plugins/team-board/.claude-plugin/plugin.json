@@ -1,0 +1,9 @@
+{
+  "name": "team-board",
+  "version": "0.7.5",
+  "description": "A Team pane with one row per agent or teammate (working, done, blocked), a toast when one turns blocked, and teammate messages folded to one line in the transcript.",
+  "types": "./types/index.d.ts",
+  "author": {
+    "name": "Marcos Miranda"
+  }
+}
